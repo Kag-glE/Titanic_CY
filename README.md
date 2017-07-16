@@ -1,2 +1,2 @@
 # Titanic_CY
-# Kaggle study
+## Kaggle study
